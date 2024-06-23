@@ -1,5 +1,5 @@
 # Entra21
-Projeto desenvolvido durante o curso da Blusoft, com o objetivo de aprender os fundamentos do framework Django. Nele, exploramos a criação de uma página web simples com menu expansivo, listagem de cursos, gerenciamento de usuários e permissões.
+Projeto desenvolvido durante o curso EAD de 7 meses da Blusoft, com foco em Python básico e no framework Django. O curso abordou desde os fundamentos da linguagem Python até a criação de aplicações web com Django, incluindo a construção de uma página simples com menu expansivo, listagem de cursos, gerenciamento de usuários e permissões.
 
 # Funcionalidades
 Página inicial: Apresenta o projeto e suas principais funcionalidades.
